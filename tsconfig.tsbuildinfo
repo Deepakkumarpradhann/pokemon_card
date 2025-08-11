@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/features/api/pokeapi.ts","./src/features/collection/collectionpage.tsx","./src/features/collection/collectioncontext.tsx","./src/features/discovery/discoverypage.tsx"],"version":"5.9.2"}
